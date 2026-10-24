@@ -1,0 +1,9 @@
+
+read_hdl dma_top.v dma_controller.v dma_registers.v
+elaborate dma_top
+read_sdc dma_constraints.tcl
+synthesize -to_mapped
+report_area > area.rpt
+report_timing > timing.rpt
+report_power > power.rpt
+write_hdl > synthesized.v

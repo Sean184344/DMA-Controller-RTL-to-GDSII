@@ -1,0 +1,1 @@
+The complete proceedings PDF, acceptance letter, lab report, and similarity report were supplied for repository preparation but are not copied here by default. This avoids accidentally redistributing conference-copyrighted text, reviewer comments, similarity reports, or unnecessary personal/student information. See `../docs/publication.md` for the paper metadata and citation.

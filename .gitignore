@@ -1,0 +1,26 @@
+# Simulator / build outputs
+build/
+*.vcd
+*.fsdb
+*.shm/
+*.log
+*.jou
+*.history
+
+# EDA generated databases and large intermediate files
+*.enc
+*.db
+*.oa
+*.gds
+*.lef
+*.def
+*.spef
+*.sdf
+*.lib
+*.lib.gz
+
+# Local configuration
+.env
+*.local
+.DS_Store
+Thumbs.db

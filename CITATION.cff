@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the conference paper and acknowledge the project authors. Confirm the official proceedings record before adding a DOI."
+title: "Design and Implementation of a Memory-Mapped DMA Controller Using ASIC Flow"
+type: software
+authors:
+  - family-names: Gabriel
+    given-names: "Pitta Sean"
+  - family-names: Narbariya
+    given-names: Anshul
+  - family-names: Gaur
+    given-names: Aryan
+  - family-names: Martha
+    given-names: Pramod
+  - family-names: Nigam
+    given-names: Adarsh
+  - family-names: Goyal
+    given-names: "Amit Kumar"
